@@ -2,7 +2,7 @@
 username: String  
 
 ```
-git clone
+git clone https://github.com/omarcosr/user-feed
 cd user-feed
 npm install
 open main.js and replace RAPIDAPI_HOST & RAPIDAPI_KEY
